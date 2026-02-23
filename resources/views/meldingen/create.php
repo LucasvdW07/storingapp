@@ -32,6 +32,11 @@
                 <label for="melder">Naam melder:</label>
                 <input type="text" name="melder" id="melder" class="form-input">
             </div>
+            <div class="form-group">
+                <label for="newsletter">Nieuwsbrief</label>
+                <input type="checkbox" name="newsletter" id="newsletter">
+                <label for="newsletter">Ik wil graag de nieuwsbrief ontvangen</label>
+            </div>
 
             <input type="submit" value="Verstuur melding">
 
